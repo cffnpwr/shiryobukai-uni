@@ -1,0 +1,7 @@
+.vscode
+.dockerignore
+.gitignore
+Cargo.lock
+docker-compose.yaml
+Dockerfile*
+LICENSE
